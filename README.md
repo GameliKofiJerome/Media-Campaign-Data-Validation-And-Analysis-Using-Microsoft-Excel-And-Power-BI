@@ -46,4 +46,10 @@ The following data cleaning and tramsformation processes were undertaken to make
 8. Removed all campaign information that had both cost and impressions recorded as 0.
 9. Rounded up all decimal point impression values to the nearest whole number.
 
+## Data Validation and Analysis Project Files
+- The file ```Data Validation (Econometrics).xlsx``` is the excel file containing the project instructions/guidelines sheeet, raw data sheet, campaign lookup sheet and campaign_data sheet containing the merged data from the raw data sheet and campaign lookup sheet.
+- The merged infromation in the campaign_data sheet was copied and moved a new excel workbook called ```media_campaign.xlsx```.
+- The ```media_campaign.pbix``` file is the Power BI data visualization file which you must download onto your local machine or PC and open with the Power BI desktop application to view the interactive visual dashboard for this project.
+- The Power BI report dashboard can also be viewed by clicking on this [link here](https://app.powerbi.com/groups/me/reports/94598379-5abb-4dd2-adc3-bb8d02fbab96?ctid=afab14ca-ab60-42a6-8a29-ff101424f318&pbi_source=linkShare).
+- The file ```DATA VALIDATION & ANALYSIS PRESENTATION.pptx``` is the PowerPoint presentation deck of the data validation process and analysis.
 
